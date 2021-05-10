@@ -1,9 +1,9 @@
 # tuckshopmanagement
-Functionality of the code:
+## Functionality of the code:
 
 Our Code is based on Tuck Shop Management System. This software is supported to eliminate and in some cases reduce the hardships faced. Moreover this system is designed for the particular need of the canteen to carry out operation in smooth and effective manner.
 
-Our code has 5 Modules:
+### Our code has 5 Modules:
 
 
 LOGIN: Login module will be allow only verified people to log into the software and access the software and various functions of software.
@@ -23,7 +23,7 @@ View sales records. By entering the choices, we will get to see each and everyth
 How to run the code locally?
 We have to install CODE BLOCKS IDE (GCC COMPILER) Technology used in it is C++.
 
-CODE BLOCKS IDE
+## CODE BLOCKS IDE
 
 Open the code blocks.
 Click on create a new project.
@@ -34,8 +34,6 @@ Click on Finish.
 DEMO LINK:
 THANKYOU!!
 
-Owner Pass: SCHOOL@23 Employee Pass: EMPLOYEE@5
+#### Owner Pass: SCHOOL@23 Employee Pass: EMPLOYEE@5
 
-
-
-
+**THANKYOU!!**
