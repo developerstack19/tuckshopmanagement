@@ -1,8 +1,10 @@
 # tuckshopmanagement
 Functionality of the code:
+
 Our Code is based on Tuck Shop Management System. This software is supported to eliminate and in some cases reduce the hardships faced. Moreover this system is designed for the particular need of the canteen to carry out operation in smooth and effective manner.
 
 Our code has 5 Modules:
+
 
 LOGIN: Login module will be allow only verified people to log into the software and access the software and various functions of software.
 INVENTORY: The inventory feature will allow the administrator to check out goods and products available in the storehouse.
